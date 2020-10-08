@@ -5,8 +5,6 @@ My name is Rocky43007. I am a software developer and creator of many application
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Rocky43007)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky43007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on the [Glasses for Blind Project](https://www.github.com/Rocky43007/GlassesForBlind) and [Rockibot](https://www.github.com/Rocky43007/Rockibot).
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me: Discord at [Rocky43007#7727](https://discord.com/users/361212545924595712).
