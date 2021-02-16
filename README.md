@@ -7,7 +7,7 @@ My name is Rocky43007. I am a software developer and creator of many application
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky43007&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### My current repos! 👨🏾‍💻
 [![GFBP](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=GlassesForBlind&theme=nord)](https://www.github.com/Rocky43007/GlassesForBlind)
-[![RFTF](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=RFTFApp&theme=nord)](https://github.com/Rocky43007/RFTFARApp)
+[![RFTF](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=RFTFARApp&theme=nord)](https://github.com/Rocky43007/RFTFARApp)
 
 - 🔭 I’m currently working on the [Glasses for Blind Project](https://www.github.com/Rocky43007/GlassesForBlind) and [Rockibot](https://rockibot.ml)
 - 🌱 I’m currently learning Javascript and Tensorflow + Keras in Python!
