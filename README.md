@@ -5,9 +5,10 @@ My name is Rocky43007. I am a software developer and creator of many application
 ### Rocky's Stats 🎉
 [![Rocky's github stats](https://github-readme-stats.vercel.app/api?username=Rocky43007&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky43007&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### My current repos! 👨🏾‍💻
+### My most complex projects!! 👨🏾‍💻
 [![GFBP](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=GlassesForBlind&theme=nord)](https://www.github.com/Rocky43007/GlassesForBlind)
 [![RFTF](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=RFTFARApp&theme=nord)](https://github.com/Rocky43007/RFTFARApp)
+[![Rockibot](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=Rockibot&theme=nord)](https://github.com/Rocky43007/Rockibot)
 
 - 🔭 I’m currently working on [PizzaTown](https://pizzatown.ml)
 - 🌱 I’m currently learning Javascript and Tensorflow + Keras in Python!
