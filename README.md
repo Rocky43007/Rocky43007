@@ -4,7 +4,7 @@ My name is Rocky43007. I am a software developer and creator of many application
 
 ### Rocky's Stats 🎉
 ![Rocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky43007&count_private=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky43007&theme=dark&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky43007&theme=dark&layout=compact&count_private=true&langs_count=10&hide=php,roff)
 ### My most complex projects!! 👨🏾‍💻
 [![GFBP](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=GlassesForBlind&theme=dark)](https://www.github.com/Rocky43007/GlassesForBlind)
 [![RFTF](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=RFTFARApp&theme=dark)](https://github.com/Rocky43007/RFTFARApp)
