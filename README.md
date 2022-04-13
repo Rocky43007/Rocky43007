@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rocky43007. I am a software developer and creator of many applications and hardware solutions. I'm a young student who specializes in coding with Python 3, and knows many other languages, like Bash and Javascript.
+My name is Rocky43007. I am a software developer and creator of many applications and hardware solutions. I'm a young student who specializes in coding with Python 3, and know many other languages, like Bash and Javascript.
 
 ### Rocky's Stats 🎉
 ![Rocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky43007&count_private=true&theme=dark) 
