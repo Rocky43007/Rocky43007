@@ -11,7 +11,7 @@ My name is Rocky43007. I am a software developer and creator of many application
 [![Rockibot](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=Rockibot&theme=dark)](https://github.com/Rocky43007/Rockibot)
 [![UniversalOS](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=UniversalOS&theme=dark)](https://github.com/Rocky43007/UniversalOS)
 
-- 🔭 I’m currently working on [PizzaTown](https://pizzatown.ml)
+- 🔭 I’m currently working on [PizzaTown](https://pizzatown.app)
 - 🌱 I’m currently learning Reactjs, React Native, C and Assembly!
 - 📫 How to reach me: Discord at [Rocky43007#7727](https://discord.com/users/361212545924595712).
 - ⚡ Fun fact: I made a [Voice Assistant](https://github.com/Rocky43007/Voice-Assistant-For-Linux) in a week using Python 2 that worked in Linux!
