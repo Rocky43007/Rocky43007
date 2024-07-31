@@ -1,18 +1,29 @@
-### Hi there 👋
+# Welcome!
 
-My name is Rocky43007. I am a software developer and creator of many applications and hardware solutions. I'm a young student who specializes in coding with Python 3, and know many other languages, like Bash and Javascript.
+I'm a second-year Computer Science undergrad at Stony Brook University. I'm a full-stack engineer who loves working with everything, from hardware to software. I've been programming for almost ten years and have loved it since I started in 2014. 
 
-### Rocky's Stats 🎉
-![Rocky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rocky43007&count_private=true&theme=dark) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky43007&theme=dark&layout=compact&count_private=true&langs_count=10&hide=php,roff)
-### My most complex projects!! 👨🏾‍💻
-[![GFBP](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=GlassesForBlind&theme=dark)](https://www.github.com/Rocky43007/GlassesForBlind)
-[![RFTF](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=RFTFARApp&theme=dark)](https://github.com/Rocky43007/RFTFARApp)
-[![Shader-Editor](https://github-readme-stats.vercel.app/api/pin/?username=nanovis&repo=Shader-Editor&theme=dark)](https://github.com/nanovis/Shader-Editor)
-[![UniversalOS](https://github-readme-stats.vercel.app/api/pin/?username=Rocky43007&repo=UniversalOS&theme=dark)](https://github.com/Rocky43007/UniversalOS)
+## Some projects I've worked on over the years:
+- **[Glasess For the Blind](https://github.com/Rocky43007/GlassesForBlind):** One of my more involved projects, this initiative aimed to create affordable, effective glasses for visually impaired individuals using Python, OpenCV, and OpenVINO with Intel NCS2.
+- **[Shader Editor](https://github.com/nanovis/Shader-Editor):** This is a fun project using the new WebGPU Shading Language (WGSL). I worked on the site's editor by implementing what is basically [VS Code](https://github.com/microsoft/monaco-editor).
+- **[Universal OS](https://github.com/Rocky43007/UniversalOS):** An ambitious project to develop an operating system capable of running Windows, Mac, and Linux applications natively without compatibility layers like WINE or WSL. The kernel loads some text in 32-bit, but it's currently under hiatus.
+- **[EmoStyleGan](https://docs.google.com/presentation/d/1fNYO3z1301oJ4RnGusKv92-sMIYPSSJaMcnEasbrTbA/view):** A model that generated fake AI art with an emotional condition, made back in 2021. It modified the Nvidia [StyleGAN 2](https://github.com/NVlabs/stylegan2) architecture to take an additional argument of an emotion.
 
-- 🔭 I’m currently working on [PizzaTown](https://pizzatown.app)
-- 🌱 I’m currently learning Reactjs, React Native, C and Assembly!
-- 📫 How to reach me: Discord at [Rocky43007#7727](https://discord.com/users/361212545924595712).
-- ⚡ Fun fact: I made a [Voice Assistant](https://github.com/Rocky43007/Voice-Assistant-For-Linux) in a week using Python 2 that worked in Linux!
-- 🔗 [My website](https://rocky43007.vercel.app).
+## Currently working on:
+- **[Spacedrive](https://github.com/spacedriveapp/spacedrive):** Currently, I'm a Full Stack Engineer - Intern @ Spacedrive. Spacedrive is an open-source cross-platform file explorer powered by a virtual distributed filesystem written in Rust. 
+
+## Profile Stats, for those who want to know:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocky43007&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocky43007&theme=dark)
+
+## Reaching Me:
+You can reach me via the following:
+
+**Discord:** [Rocky43007#7727](https://discord.com/users/361212545924595712)
+
+**LinkedIn:** [Click Here to Visit](https://www.linkedin.com/in/arnchakraborty/)
+
+## Want more info?
+For those who want more information, you can always visit my website to learn more and look at projects I haven't mentioned here!
+
+[Website](https://rocky43007.vercel.app)
