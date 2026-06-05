@@ -10,7 +10,7 @@ I'm a third-year undergraduate in Information Systems & Mathematics at Stony Bro
 - **[Spacedrive](https://github.com/spacedriveapp/spacedrive):** Spacedrive is an open-source cross-platform file explorer powered by a virtual distributed filesystem written in Rust. I worked on all aspects of the product, including our cloud services model and mobile applications.
 
 ## Currently working on:
-- **[Shade](https://shade.inc):** Currently, I'm a ShadeFS Intern @ Shade. Shade is an all-in-one replacement for LucidLink, Frame.io, Iconik, and Dropbox with additional, time-saving features. Search your assets using natural language, automate metadata tagging, and more.
+- **[Shade](https://shade.inc):** Currently, I'm a Full Stack Software & Infrastructure Engineer - Intern @ Shade. Shade is an all-in-one replacement for LucidLink, Frame.io, Iconik, and Dropbox with additional, time-saving features. Search your assets using natural language, automate metadata tagging, and more.
 
 ## Profile Stats, for those who want to know:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocky43007&show_icons=true&theme=dark)
